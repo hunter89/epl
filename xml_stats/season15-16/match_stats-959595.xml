@@ -1,0 +1,2775 @@
+<program>
+  <var name="matchStats">
+    <array>
+      <array>
+        <array>
+          <number value="27"/>
+          <number value="26"/>
+          <string>Watford</string>
+          <string>Liverpool</string>
+          <string>20/12/2015 13:30:00</string>
+          <string>20/12/2015 00:00:00</string>
+          <number value="6"/>
+          <string>FT</string>
+          <string>2 : 0</string>
+          <string>3 : 0</string>
+          <undefined/>
+          <undefined/>
+          <string>3 : 0</string>
+          <string>England</string>
+          <string>England</string>
+        </array>
+        <array>
+          <array>
+            <array>
+              <number value="3"/>
+              <array>
+                <array>
+                  <string>Nathan Aké</string>
+                  <undefined/>
+                  <string>goal</string>
+                  <string>(1-0)</string>
+                  <undefined/>
+                  <number value="3"/>
+                  <number value="122945"/>
+                  <number value="0"/>
+                </array>
+              </array>
+              <array/>
+              <number value="1"/>
+              <number value="0"/>
+            </array>
+            <array>
+              <number value="15"/>
+              <array>
+                <array>
+                  <string>Odion Ighalo</string>
+                  <undefined/>
+                  <string>goal</string>
+                  <string>(2-0)</string>
+                  <undefined/>
+                  <number value="15"/>
+                  <number value="31376"/>
+                  <number value="0"/>
+                </array>
+              </array>
+              <array/>
+              <number value="1"/>
+              <number value="0"/>
+            </array>
+            <array>
+              <number value="41"/>
+              <array/>
+              <array>
+                <array>
+                  <string>Martin Skrtel</string>
+                  <string>Divock Origi</string>
+                  <string>subst</string>
+                  <undefined/>
+                  <undefined/>
+                  <number value="41"/>
+                  <number value="19840"/>
+                  <number value="124688"/>
+                </array>
+              </array>
+              <number value="0"/>
+              <number value="1"/>
+            </array>
+            <array>
+              <number value="74"/>
+              <array/>
+              <array>
+                <array>
+                  <string>Adam Lallana</string>
+                  <string>Jordon Ibe</string>
+                  <string>subst</string>
+                  <undefined/>
+                  <undefined/>
+                  <number value="74"/>
+                  <number value="21683"/>
+                  <number value="105797"/>
+                </array>
+                <array>
+                  <string>Roberto Firmino</string>
+                  <string>Christian Benteke</string>
+                  <string>subst</string>
+                  <undefined/>
+                  <undefined/>
+                  <number value="74"/>
+                  <number value="96182"/>
+                  <number value="68312"/>
+                </array>
+              </array>
+              <number value="0"/>
+              <number value="1"/>
+            </array>
+            <array>
+              <number value="76"/>
+              <array>
+                <array>
+                  <string>José Manuel Jurado</string>
+                  <string>Ikechi Anya</string>
+                  <string>subst</string>
+                  <undefined/>
+                  <undefined/>
+                  <number value="76"/>
+                  <number value="14259"/>
+                  <number value="9795"/>
+                </array>
+              </array>
+              <array/>
+              <number value="1"/>
+              <number value="0"/>
+            </array>
+            <array>
+              <number value="78"/>
+              <array>
+                <array>
+                  <string>Miguel Britos</string>
+                  <undefined/>
+                  <string>yellow</string>
+                  <undefined/>
+                  <undefined/>
+                  <number value="78"/>
+                  <number value="36096"/>
+                  <number value="0"/>
+                </array>
+              </array>
+              <array/>
+              <number value="1"/>
+              <number value="0"/>
+            </array>
+            <array>
+              <number value="80"/>
+              <array>
+                <array>
+                  <string>Almen Abdi</string>
+                  <string>Valon Behrami</string>
+                  <string>subst</string>
+                  <undefined/>
+                  <undefined/>
+                  <number value="80"/>
+                  <number value="18600"/>
+                  <number value="12462"/>
+                </array>
+              </array>
+              <array/>
+              <number value="1"/>
+              <number value="0"/>
+            </array>
+            <array>
+              <number value="85"/>
+              <array>
+                <array>
+                  <string>Odion Ighalo</string>
+                  <string>Valon Behrami</string>
+                  <string>goal</string>
+                  <string>(3-0)</string>
+                  <undefined/>
+                  <number value="85"/>
+                  <number value="31376"/>
+                  <number value="12462"/>
+                </array>
+              </array>
+              <array/>
+              <number value="1"/>
+              <number value="0"/>
+            </array>
+            <array>
+              <number value="88"/>
+              <array>
+                <array>
+                  <string>Odion Ighalo</string>
+                  <string>Adlène Guédioura</string>
+                  <string>subst</string>
+                  <undefined/>
+                  <undefined/>
+                  <number value="88"/>
+                  <number value="31376"/>
+                  <number value="64343"/>
+                </array>
+              </array>
+              <array/>
+              <number value="1"/>
+              <number value="0"/>
+            </array>
+          </array>
+        </array>
+        <array>
+          <array>
+            <number value="27"/>
+            <string>Watford</string>
+            <number value="7.30714285714286"/>
+            <array>
+              <array>
+                <array>
+                  <string>blocked_scoring_att</string>
+                  <array>
+                    <number value="1"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_goal_low_left</string>
+                  <array>
+                    <number value="2"/>
+                  </array>
+                </array>
+                <array>
+                  <string>accurate_pass</string>
+                  <array>
+                    <number value="144"/>
+                  </array>
+                </array>
+                <array>
+                  <string>won_contest</string>
+                  <array>
+                    <number value="6"/>
+                  </array>
+                </array>
+                <array>
+                  <string>ontarget_scoring_att</string>
+                  <array>
+                    <number value="5"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_scoring_att</string>
+                  <array>
+                    <number value="6"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_goal_low_centre</string>
+                  <array>
+                    <number value="1"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_throws</string>
+                  <array>
+                    <number value="30"/>
+                  </array>
+                </array>
+                <array>
+                  <string>aerial_won</string>
+                  <array>
+                    <number value="14"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_pass</string>
+                  <array>
+                    <number value="268"/>
+                  </array>
+                </array>
+                <array>
+                  <string>goals</string>
+                  <array>
+                    <number value="3"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_tackle</string>
+                  <array>
+                    <number value="28"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_offside</string>
+                  <array>
+                    <number value="1"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_sv_low_centre</string>
+                  <array>
+                    <number value="1"/>
+                  </array>
+                </array>
+                <array>
+                  <string>aerial_lost</string>
+                  <array>
+                    <number value="14"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_sv_low_right</string>
+                  <array>
+                    <number value="1"/>
+                  </array>
+                </array>
+                <array>
+                  <string>fk_foul_lost</string>
+                  <array>
+                    <number value="6"/>
+                  </array>
+                </array>
+                <array>
+                  <string>won_corners</string>
+                  <array>
+                    <number value="7"/>
+                  </array>
+                </array>
+                <array>
+                  <string>possession_percentage</string>
+                  <array>
+                    <number value="35.1"/>
+                  </array>
+                </array>
+              </array>
+            </array>
+            <array>
+              <array>
+                <number value="10133"/>
+                <string>Heurelho Gomes</string>
+                <number value="8.05"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="11"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="43"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>saves</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="33"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>good_high_claim</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="1"/>
+                <string>GK</string>
+                <number value="1"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>GK</string>
+                <number value="36"/>
+                <number value="191"/>
+                <number value="91"/>
+              </array>
+              <array>
+                <number value="25241"/>
+                <string>Craig Cathcart</string>
+                <number value="7.25"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="32"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="17"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="5"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="2"/>
+                <string>DC</string>
+                <number value="15"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(CR)</string>
+                <number value="28"/>
+                <number value="188"/>
+                <number value="73"/>
+              </array>
+              <array>
+                <number value="36096"/>
+                <string>Miguel Britos</string>
+                <number value="7.06"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="13"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="30"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>yellow_card</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="21"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="6"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="2"/>
+                <string>DC</string>
+                <number value="3"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(CL)</string>
+                <number value="32"/>
+                <number value="188"/>
+                <number value="82"/>
+              </array>
+              <array>
+                <number value="122945"/>
+                <string>Nathan Aké</string>
+                <number value="8.19"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="8"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="44"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="14"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>goals</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="2"/>
+                <string>DL</string>
+                <number value="16"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(CL),DMC</string>
+                <number value="22"/>
+                <number value="180"/>
+                <number value="75"/>
+              </array>
+              <array>
+                <number value="91434"/>
+                <string>Allan Nyom</string>
+                <number value="6.79"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="10"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="45"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="20"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="2"/>
+                <string>DR</string>
+                <number value="2"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(LR)</string>
+                <number value="29"/>
+                <number value="188"/>
+                <number value="81"/>
+              </array>
+              <array>
+                <number value="10254"/>
+                <string>Ben Watson</string>
+                <number value="7.72"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="15"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="50"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="30"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="3"/>
+                <string>MC</string>
+                <number value="23"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>M(C)</string>
+                <number value="32"/>
+                <number value="178"/>
+                <number value="68"/>
+              </array>
+              <array>
+                <number value="33590"/>
+                <string>Etienne Capoue</string>
+                <number value="7.77"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>blocked_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="26"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="59"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="38"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="6"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="8"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="3"/>
+                <string>MC</string>
+                <number value="29"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(C),M(CL)</string>
+                <number value="29"/>
+                <number value="189"/>
+                <number value="80"/>
+              </array>
+              <array>
+                <number value="14259"/>
+                <string>José Manuel Jurado</string>
+                <number value="6.98"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="17"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="27"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="21"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="11"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="3"/>
+                <string>ML</string>
+                <number value="7"/>
+                <number value="1"/>
+                <number value="76"/>
+                <string>M(CLR)</string>
+                <number value="31"/>
+                <number value="174"/>
+                <number value="76"/>
+              </array>
+              <array>
+                <number value="18600"/>
+                <string>Almen Abdi</string>
+                <number value="7.65"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="13"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="41"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="21"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="8"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="7"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="3"/>
+                <string>MR</string>
+                <number value="22"/>
+                <number value="1"/>
+                <number value="80"/>
+                <string>M(CLR)</string>
+                <number value="31"/>
+                <number value="180"/>
+                <number value="72"/>
+              </array>
+              <array>
+                <number value="25832"/>
+                <string>Troy Deeney</string>
+                <number value="7.13"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="15"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="49"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="7"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="34"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="7"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="9"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="4"/>
+                <string>FW</string>
+                <number value="9"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>FW</string>
+                <number value="29"/>
+                <number value="183"/>
+                <number value="90"/>
+              </array>
+              <array>
+                <number value="31376"/>
+                <string>Odion Ighalo</string>
+                <number value="8.51"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="8"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="35"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="13"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>goals</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="10"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>man_of_the_match</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="4"/>
+                <string>FW</string>
+                <number value="24"/>
+                <number value="1"/>
+                <number value="88"/>
+                <string>AM(C),FW</string>
+                <number value="28"/>
+                <number value="188"/>
+                <number value="70"/>
+              </array>
+              <array>
+                <number value="243551"/>
+                <string>Obbi Oularé</string>
+                <number value="0"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="10"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>FW</string>
+                <number value="21"/>
+                <number value="196"/>
+                <number value="94"/>
+              </array>
+              <array>
+                <number value="64343"/>
+                <string>Adlène Guédioura</string>
+                <number value="6.03"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="17"/>
+                <number value="2"/>
+                <number value="88"/>
+                <string>M(C)</string>
+                <number value="32"/>
+                <number value="186"/>
+                <number value="81"/>
+              </array>
+              <array>
+                <number value="12462"/>
+                <string>Valon Behrami</string>
+                <number value="7.03"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="7"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>goal_assist</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="8"/>
+                <number value="2"/>
+                <number value="80"/>
+                <string>M(C)</string>
+                <number value="32"/>
+                <number value="185"/>
+                <number value="78"/>
+              </array>
+              <array>
+                <number value="21499"/>
+                <string>José Holebas</string>
+                <number value="0"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="25"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(L),M(L)</string>
+                <number value="33"/>
+                <number value="184"/>
+                <number value="77"/>
+              </array>
+              <array>
+                <number value="30310"/>
+                <string>Alessandro Diamanti</string>
+                <number value="0"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="32"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>M(CR),FW</string>
+                <number value="34"/>
+                <number value="180"/>
+                <number value="75"/>
+              </array>
+              <array>
+                <number value="66957"/>
+                <string>Giedrius Arlauskis</string>
+                <number value="0"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="34"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>GK</string>
+                <number value="30"/>
+                <number value="192"/>
+                <number value="85"/>
+              </array>
+              <array>
+                <number value="9795"/>
+                <string>Ikechi Anya</string>
+                <number value="6.14"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="12"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="5"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="21"/>
+                <number value="2"/>
+                <number value="76"/>
+                <string>D(L),M(LR),FW</string>
+                <number value="29"/>
+                <number value="166"/>
+                <number value="58"/>
+              </array>
+            </array>
+            <array>
+              <string>442</string>
+              <array>
+                <array>
+                  <number value="5"/>
+                  <number value="1"/>
+                </array>
+                <array>
+                  <number value="8"/>
+                  <number value="3"/>
+                </array>
+                <array>
+                  <number value="2"/>
+                  <number value="3"/>
+                </array>
+                <array>
+                  <number value="6"/>
+                  <number value="6"/>
+                </array>
+                <array>
+                  <number value="6"/>
+                  <number value="3"/>
+                </array>
+                <array>
+                  <number value="4"/>
+                  <number value="3"/>
+                </array>
+                <array>
+                  <number value="8"/>
+                  <number value="6"/>
+                </array>
+                <array>
+                  <number value="4"/>
+                  <number value="6"/>
+                </array>
+                <array>
+                  <number value="4"/>
+                  <number value="9"/>
+                </array>
+                <array>
+                  <number value="6"/>
+                  <number value="9"/>
+                </array>
+                <array>
+                  <number value="2"/>
+                  <number value="6"/>
+                </array>
+              </array>
+            </array>
+          </array>
+          <array>
+            <number value="26"/>
+            <string>Liverpool</string>
+            <number value="6.18214285714286"/>
+            <array>
+              <array>
+                <array>
+                  <string>blocked_scoring_att</string>
+                  <array>
+                    <number value="4"/>
+                  </array>
+                </array>
+                <array>
+                  <string>accurate_pass</string>
+                  <array>
+                    <number value="376"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_miss_left</string>
+                  <array>
+                    <number value="2"/>
+                  </array>
+                </array>
+                <array>
+                  <string>won_contest</string>
+                  <array>
+                    <number value="8"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_sv_high_centre</string>
+                  <array>
+                    <number value="1"/>
+                  </array>
+                </array>
+                <array>
+                  <string>ontarget_scoring_att</string>
+                  <array>
+                    <number value="4"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_scoring_att</string>
+                  <array>
+                    <number value="12"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_throws</string>
+                  <array>
+                    <number value="27"/>
+                  </array>
+                </array>
+                <array>
+                  <string>aerial_won</string>
+                  <array>
+                    <number value="14"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_pass</string>
+                  <array>
+                    <number value="500"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_miss_right</string>
+                  <array>
+                    <number value="2"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_tackle</string>
+                  <array>
+                    <number value="19"/>
+                  </array>
+                </array>
+                <array>
+                  <string>total_offside</string>
+                  <array>
+                    <number value="10"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_sv_low_centre</string>
+                  <array>
+                    <number value="1"/>
+                  </array>
+                </array>
+                <array>
+                  <string>shot_off_target</string>
+                  <array>
+                    <number value="4"/>
+                  </array>
+                </array>
+                <array>
+                  <string>aerial_lost</string>
+                  <array>
+                    <number value="14"/>
+                  </array>
+                </array>
+                <array>
+                  <string>att_sv_low_right</string>
+                  <array>
+                    <number value="2"/>
+                  </array>
+                </array>
+                <array>
+                  <string>fk_foul_lost</string>
+                  <array>
+                    <number value="9"/>
+                  </array>
+                </array>
+                <array>
+                  <string>won_corners</string>
+                  <array>
+                    <number value="9"/>
+                  </array>
+                </array>
+                <array>
+                  <string>possession_percentage</string>
+                  <array>
+                    <number value="64.9"/>
+                  </array>
+                </array>
+              </array>
+            </array>
+            <array>
+              <array>
+                <number value="69179"/>
+                <string>Adam Bogdan</string>
+                <number value="5.36"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="23"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>saves</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>error_lead_to_goal</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="11"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>good_high_claim</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="1"/>
+                <string>GK</string>
+                <number value="34"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>GK</string>
+                <number value="30"/>
+                <number value="194"/>
+                <number value="92"/>
+              </array>
+              <array>
+                <number value="69375"/>
+                <string>Nathaniel Clyne</string>
+                <number value="5.6"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>blocked_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="40"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="83"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="57"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="2"/>
+                <string>DR</string>
+                <number value="2"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(R),M(R)</string>
+                <number value="26"/>
+                <number value="175"/>
+                <number value="67"/>
+              </array>
+              <array>
+                <number value="113275"/>
+                <string>Alberto Moreno</string>
+                <number value="5.89"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="40"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="77"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="50"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="2"/>
+                <string>DL</string>
+                <number value="18"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(L),M(L)</string>
+                <number value="25"/>
+                <number value="171"/>
+                <number value="65"/>
+              </array>
+              <array>
+                <number value="19840"/>
+                <string>Martin Skrtel</string>
+                <number value="6.42"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="18"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="35"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="23"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="5"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="2"/>
+                <string>DC</string>
+                <number value="37"/>
+                <number value="1"/>
+                <number value="41"/>
+                <string>D(C)</string>
+                <number value="33"/>
+                <number value="193"/>
+                <number value="81"/>
+              </array>
+              <array>
+                <number value="29575"/>
+                <string>Mamadou Sakho</string>
+                <number value="7.3"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="56"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="91"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="5"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="69"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="5"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="6"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="2"/>
+                <string>DC</string>
+                <number value="17"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(C)</string>
+                <number value="27"/>
+                <number value="187"/>
+                <number value="83"/>
+              </array>
+              <array>
+                <number value="31451"/>
+                <string>Lucas Leiva</string>
+                <number value="6.37"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="43"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="76"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="60"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="3"/>
+                <string>MC</string>
+                <number value="21"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(C),M(C)</string>
+                <number value="30"/>
+                <number value="179"/>
+                <number value="74"/>
+              </array>
+              <array>
+                <number value="68659"/>
+                <string>Jordan Henderson</string>
+                <number value="6.43"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>blocked_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="36"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="73"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="54"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="7"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="3"/>
+                <string>MC</string>
+                <number value="14"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>M(CLR)</string>
+                <number value="27"/>
+                <number value="182"/>
+                <number value="67"/>
+              </array>
+              <array>
+                <number value="111212"/>
+                <string>Emre Can</string>
+                <number value="6.24"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="49"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="84"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="66"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="8"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="3"/>
+                <string>MC</string>
+                <number value="23"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(CLR),DMC</string>
+                <number value="23"/>
+                <number value="184"/>
+                <number value="82"/>
+              </array>
+              <array>
+                <number value="80767"/>
+                <string>Philippe Coutinho</string>
+                <number value="6.93"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="28"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="59"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="4"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="34"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_tackle</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="11"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="4"/>
+                <string>FWL</string>
+                <number value="10"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>M(CLR)</string>
+                <number value="25"/>
+                <number value="171"/>
+                <number value="71"/>
+              </array>
+              <array>
+                <number value="96182"/>
+                <string>Roberto Firmino</string>
+                <number value="5.91"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="18"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="35"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>won_contest</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="22"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="9"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="4"/>
+                <string>FW</string>
+                <number value="11"/>
+                <number value="1"/>
+                <number value="74"/>
+                <string>M(CLR),FW</string>
+                <number value="26"/>
+                <number value="181"/>
+                <number value="76"/>
+              </array>
+              <array>
+                <number value="21683"/>
+                <string>Adam Lallana</string>
+                <number value="5.86"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>blocked_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="23"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="44"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="28"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>fouls</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="10"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="4"/>
+                <string>FWR</string>
+                <number value="20"/>
+                <number value="1"/>
+                <number value="74"/>
+                <string>AM(CLR)</string>
+                <number value="29"/>
+                <number value="172"/>
+                <number value="73"/>
+              </array>
+              <array>
+                <number value="68312"/>
+                <string>Christian Benteke</string>
+                <number value="6.13"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="6"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="10"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_won</string>
+                      <array>
+                        <number value="3"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="7"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="9"/>
+                <number value="2"/>
+                <number value="74"/>
+                <string>FW</string>
+                <number value="27"/>
+                <number value="190"/>
+                <number value="83"/>
+              </array>
+              <array>
+                <number value="105797"/>
+                <string>Jordon Ibe</string>
+                <number value="6.08"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>blocked_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="9"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="16"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="10"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="33"/>
+                <number value="2"/>
+                <number value="74"/>
+                <string>AM(LR)</string>
+                <number value="22"/>
+                <number value="176"/>
+                <number value="81"/>
+              </array>
+              <array>
+                <number value="301479"/>
+                <string>Ryan Fulton</string>
+                <number value="0"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="39"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>Goalkeeper</string>
+                <number value="21"/>
+                <number value="191"/>
+                <number value="80"/>
+              </array>
+              <array>
+                <number value="296522"/>
+                <string>Connor Randall</string>
+                <number value="0"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="56"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>Defender</string>
+                <number value="22"/>
+                <number value="180"/>
+                <number value="76"/>
+              </array>
+              <array>
+                <number value="3817"/>
+                <string>Kolo Touré</string>
+                <number value="0"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="4"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>D(C)</string>
+                <number value="36"/>
+                <number value="183"/>
+                <number value="74"/>
+              </array>
+              <array>
+                <number value="124688"/>
+                <string>Divock Origi</string>
+                <number value="6.03"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>accurate_pass</string>
+                      <array>
+                        <number value="6"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>touches</string>
+                      <array>
+                        <number value="18"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_scoring_att</string>
+                      <array>
+                        <number value="1"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>total_pass</string>
+                      <array>
+                        <number value="9"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>aerial_lost</string>
+                      <array>
+                        <number value="2"/>
+                      </array>
+                    </array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="27"/>
+                <number value="2"/>
+                <number value="41"/>
+                <string>AM(LR),FW</string>
+                <number value="22"/>
+                <number value="185"/>
+                <number value="75"/>
+              </array>
+              <array>
+                <number value="23444"/>
+                <string>Joe Allen</string>
+                <number value="0"/>
+                <array>
+                  <array>
+                    <array>
+                      <string>formation_place</string>
+                      <array>
+                        <number value="0"/>
+                      </array>
+                    </array>
+                  </array>
+                </array>
+                <number value="5"/>
+                <string>Sub</string>
+                <number value="24"/>
+                <number value="0"/>
+                <number value="0"/>
+                <string>M(C)</string>
+                <number value="27"/>
+                <number value="168"/>
+                <number value="62"/>
+              </array>
+            </array>
+            <array>
+              <string>433</string>
+              <array>
+                <array>
+                  <number value="5"/>
+                  <number value="1"/>
+                </array>
+                <array>
+                  <number value="2"/>
+                  <number value="3"/>
+                </array>
+                <array>
+                  <number value="8"/>
+                  <number value="3"/>
+                </array>
+                <array>
+                  <number value="5"/>
+                  <number value="6"/>
+                </array>
+                <array>
+                  <number value="4"/>
+                  <number value="3"/>
+                </array>
+                <array>
+                  <number value="6"/>
+                  <number value="3"/>
+                </array>
+                <array>
+                  <number value="3"/>
+                  <number value="6"/>
+                </array>
+                <array>
+                  <number value="7"/>
+                  <number value="6"/>
+                </array>
+                <array>
+                  <number value="5"/>
+                  <number value="9"/>
+                </array>
+                <array>
+                  <number value="3"/>
+                  <number value="9"/>
+                </array>
+                <array>
+                  <number value="7"/>
+                  <number value="9"/>
+                </array>
+              </array>
+            </array>
+          </array>
+        </array>
+      </array>
+      <number value="0"/>
+    </array>
+  </var>
+  <var name="liveTeamStatsInfoConfig">
+    <object>
+      <property name="view">
+        <object>
+          <property name="renderTo">
+            <string>match-report-team-statistics</string>
+          </property>
+          <property name="width">
+            <number value="250"/>
+          </property>
+          <property name="labelWidth">
+            <number value="100"/>
+          </property>
+        </object>
+      </property>
+      <property name="model">
+        <object>
+          <property name="instanceType">
+            <identifier name="LiveTeamStatsSummaryInfoModel"/>
+          </property>
+          <property name="labelGroups">
+            <array>
+              <object>
+                <property name="start">
+                  <number value="0"/>
+                </property>
+                <property name="end">
+                  <number value="5"/>
+                </property>
+                <property name="clazz">
+                  <string>no-top-margin</string>
+                </property>
+                <property name="labelWidth">
+                  <number value="120"/>
+                </property>
+                <property name="statValueWidth">
+                  <number value="60"/>
+                </property>
+                <property name="hideBars">
+                  <boolean>true</boolean>
+                </property>
+              </object>
+              <object>
+                <property name="start">
+                  <number value="6"/>
+                </property>
+                <property name="end">
+                  <number value="6"/>
+                </property>
+                <property name="title">
+                  <string>Possession</string>
+                </property>
+                <property name="labelWidth">
+                  <number value="0"/>
+                </property>
+              </object>
+            </array>
+          </property>
+          <property name="labels">
+            <array>
+              <object>
+                <property name="type">
+                  <string>value</string>
+                </property>
+                <property name="displayValue">
+                  <string>Shots</string>
+                </property>
+              </object>
+              <object>
+                <property name="type">
+                  <string>value</string>
+                </property>
+                <property name="displayValue">
+                  <string>Shots on target</string>
+                </property>
+              </object>
+              <object>
+                <property name="type">
+                  <string>percentage</string>
+                </property>
+                <property name="displayValue">
+                  <string>Pass Success %</string>
+                </property>
+              </object>
+              <object>
+                <property name="type">
+                  <string>percentage</string>
+                </property>
+                <property name="displayValue">
+                  <string>Aerial Duel Success</string>
+                </property>
+              </object>
+              <object>
+                <property name="type">
+                  <string>value</string>
+                </property>
+                <property name="displayValue">
+                  <string>Dribbles won</string>
+                </property>
+              </object>
+              <object>
+                <property name="type">
+                  <string>value</string>
+                </property>
+                <property name="displayValue">
+                  <string>Tackles</string>
+                </property>
+              </object>
+              <object>
+                <property name="type">
+                  <string>percentage</string>
+                </property>
+                <property name="displayValue">
+                  <string></string>
+                </property>
+              </object>
+            </array>
+          </property>
+        </object>
+      </property>
+    </object>
+  </var>
+  <var name="liveTeamStatsInfo">
+    <new>
+      <dotaccessor>
+        <object>
+          <dotaccessor>
+            <object>
+              <identifier name="WS"/>
+            </object>
+            <property>
+              <identifier name="Stats"/>
+            </property>
+          </dotaccessor>
+        </object>
+        <property>
+          <identifier name="Info"/>
+        </property>
+      </dotaccessor>
+      <arguments>
+        <identifier name="liveTeamStatsInfoConfig"/>
+      </arguments>
+    </new>
+  </var>
+  <functioncall>
+    <function>
+      <dotaccessor>
+        <object>
+          <identifier name="liveTeamStatsInfo"/>
+        </object>
+        <property>
+          <identifier name="load"/>
+        </property>
+      </dotaccessor>
+    </function>
+    <arguments>
+      <object>
+        <property name="home">
+          <bracketaccessor>
+            <object>
+              <bracketaccessor>
+                <object>
+                  <bracketaccessor>
+                    <object>
+                      <identifier name="matchStats"/>
+                    </object>
+                    <property>
+                      <number value="0"/>
+                    </property>
+                  </bracketaccessor>
+                </object>
+                <property>
+                  <number value="2"/>
+                </property>
+              </bracketaccessor>
+            </object>
+            <property>
+              <number value="0"/>
+            </property>
+          </bracketaccessor>
+        </property>
+        <property name="away">
+          <bracketaccessor>
+            <object>
+              <bracketaccessor>
+                <object>
+                  <bracketaccessor>
+                    <object>
+                      <identifier name="matchStats"/>
+                    </object>
+                    <property>
+                      <number value="0"/>
+                    </property>
+                  </bracketaccessor>
+                </object>
+                <property>
+                  <number value="2"/>
+                </property>
+              </bracketaccessor>
+            </object>
+            <property>
+              <number value="1"/>
+            </property>
+          </bracketaccessor>
+        </property>
+      </object>
+    </arguments>
+  </functioncall>
+  <functioncall>
+    <function>
+      <dotaccessor>
+        <object>
+          <functioncall>
+            <function>
+              <identifier name="$"/>
+            </function>
+            <arguments>
+              <identifier name="document"/>
+            </arguments>
+          </functioncall>
+        </object>
+        <property>
+          <identifier name="bind"/>
+        </property>
+      </dotaccessor>
+    </function>
+    <arguments>
+      <binaryoperation operation="+">
+        <left>
+          <binaryoperation operation="+">
+            <left>
+              <string>match-live-player-stats-</string>
+            </left>
+            <right>
+              <number value="959595"/>
+            </right>
+          </binaryoperation>
+        </left>
+        <right>
+          <string>-updated</string>
+        </right>
+      </binaryoperation>
+      <funcexpr>
+        <identifier/>
+        <parameters>
+          <identifier name="options"/>
+          <identifier name="data"/>
+        </parameters>
+        <body>
+          <functioncall>
+            <function>
+              <dotaccessor>
+                <object>
+                  <identifier name="liveTeamStatsInfo"/>
+                </object>
+                <property>
+                  <identifier name="load"/>
+                </property>
+              </dotaccessor>
+            </function>
+            <arguments>
+              <object>
+                <property name="home">
+                  <bracketaccessor>
+                    <object>
+                      <bracketaccessor>
+                        <object>
+                          <identifier name="data"/>
+                        </object>
+                        <property>
+                          <number value="1"/>
+                        </property>
+                      </bracketaccessor>
+                    </object>
+                    <property>
+                      <number value="0"/>
+                    </property>
+                  </bracketaccessor>
+                </property>
+                <property name="away">
+                  <bracketaccessor>
+                    <object>
+                      <bracketaccessor>
+                        <object>
+                          <identifier name="data"/>
+                        </object>
+                        <property>
+                          <number value="1"/>
+                        </property>
+                      </bracketaccessor>
+                    </object>
+                    <property>
+                      <number value="1"/>
+                    </property>
+                  </bracketaccessor>
+                </property>
+              </object>
+            </arguments>
+          </functioncall>
+        </body>
+      </funcexpr>
+    </arguments>
+  </functioncall>
+</program>

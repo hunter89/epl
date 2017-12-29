@@ -1,0 +1,4 @@
+Constant, Won_contest, accurate_pass, tackle_opp, aerial_won, yellow_card, red_card
+1.78479365641,0.186286300271,0.0234369224308,-0.0882304070633,0.100356491006,0.213186879611,1.34599138999
+P(G|S), P(onTarget|shot), P(saveOrBlock|onTarget)
+0.108559498956,0.607803613851,0.821864266256
